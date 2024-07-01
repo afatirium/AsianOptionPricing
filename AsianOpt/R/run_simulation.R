@@ -2,8 +2,9 @@
 install.packages("Rcpp")
 library(Rcpp)
 
+
 # Source the C++ code using the correct path
-sourceCpp("C:/Users/Afat/Documents/UW - MASTER/2Y2S/CPP/Ibadova2/AsianOpt/src/simulate_option_prices.cpp")
+sourceCpp("C:/Users/Afat/Documents/UW - MASTER/2Y2S/CPP/AsianOptionPricing/AsianOpt/src/simulate_option_prices.cpp")
 
 # Define the parameters based on the project requirements
 num_simulations <- 1000
