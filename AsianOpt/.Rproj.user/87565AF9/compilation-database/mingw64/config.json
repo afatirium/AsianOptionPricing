@@ -1,0 +1,13 @@
+{
+    "args": [
+        "-IC:/Users/Afat/AppData/Local/R/win-library/4.4/Rcpp/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "1719786313",
+    "compiler": "14695981039346656037",
+    "rversion": "4.4.1",
+    "dbversion": 4
+}
